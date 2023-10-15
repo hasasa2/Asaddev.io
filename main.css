@@ -1,0 +1,12 @@
+@import url('https //fonts.googleapis.com/css family=poppins:weght@200;300;500;600;700;900&display=swap');
+
+body h2{
+    text-align: center;
+    background-color: blanchedalmond;
+   
+}
+body img{
+   float: center;
+    width: 13%;
+    height: auto;
+}  
