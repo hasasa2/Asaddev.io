@@ -127,11 +127,11 @@ nav #check:checked ~ ul{
 
  .home img{ 
     display:flex;
-    width: 20%;
     z-index: 1;
     height: auto;
     float: right;
     border: 5px  gray;
+    border-radius: 50%;
 margin-right: 70px;
 margin: 70px;
 
